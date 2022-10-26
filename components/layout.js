@@ -8,7 +8,7 @@ export default function Layout({ children }) {
                     <Link href="/">
                         <div>Home</div>
                     </Link>
-                    <span className="mx-auto">Roykimm's Blog</span>
+                    <span className="mx-auto">Roykimm&apos;s Blog</span>
                 </div>               
             </header>
             <main className="container mx-auto flex-1">{children}</main>
