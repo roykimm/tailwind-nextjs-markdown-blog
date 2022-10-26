@@ -14,7 +14,7 @@ export default function Layout({ children }) {
             <main className="container mx-auto flex-1">{children}</main>
             <footer className="bg-gray-900 mt-8 py-4 text-white">
                 <div className="container mx-auto flex justify-center">
-                    &copy; 2002 Go Bella
+                    <p>2002 Go Bella</p>
                 </div>
             </footer>
         </div>
